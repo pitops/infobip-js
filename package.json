@@ -1,0 +1,19 @@
+{
+  "name": "infobip-js",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pitops/infobip-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pitops/infobip-js/issues"
+  },
+  "homepage": "https://github.com/pitops/infobip-js#readme",
+  "keywords": ["sms-wrapper", "send sms"],
+  "author": "Petros Kyriakou",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
