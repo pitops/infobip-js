@@ -10,6 +10,12 @@ This is a javascript client that covers **partially** the API of [Infobip](https
 - Support for transliteration
 - Supports **only** username/password authentication mechanism
 
+### Install
+
+```javascript
+npm install @pitops/infobip-js
+```
+
 ### How to use
 
 ```javascript
